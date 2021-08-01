@@ -33,3 +33,5 @@ http://0.0.0.0:9292/order/saja
     "qty":3,
       "price":41
 }
+
+best explanation :: https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html
