@@ -25,11 +25,11 @@ sudo apt-get install rabbitmq-server
 sudo systemctl start  rabbitmq-server
 sudo systemctl status  rabbitmq-server
 sudo rabbitmq-plugins enable rabbitmq_management
-<!-- 
+
 http://0.0.0.0:9292/order/saja
 
 {
        "name":"email@g.com",
     "qty":3,
       "price":41
-} -->
+}
